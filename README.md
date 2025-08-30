@@ -78,4 +78,4 @@ paclitaxel-dose-calculator/
 - IC50 dağılımları ve optimal doz hesaplamaları  
 
 👉 Ayrıntılı görseller için:  
-[Grafikler ve Açıklamaları (PDF)](https://docs.google.com/document/d/13zcDo6B0BH_SOElQdU4RaMufdT6Y9r2N/edit?usp=drive_link&ouid=104856913755461109286&rtpof=true&sd=true )  
+https://docs.google.com/document/d/13zcDo6B0BH_SOElQdU4RaMufdT6Y9r2N/edit?usp=drive_link&ouid=104856913755461109286&rtpof=true&sd=true 
