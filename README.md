@@ -1,7 +1,7 @@
 # Paclitaxel Doz Hesaplayıcı
 
 *Canlı Uygulama:*  
-👉 [Paclitaxel Dose Calculator Web App](https://nisa439.github.io/ONKOLOJ-DE-3T-TEKNOFEST/)  
+👉 [Paclitaxel Dose Calculator Web App]([https://nisa439.github.io/ONKOLOJ-DE-3T-TEKNOFEST/](https://nisa439.github.io/ONKOLOJIDE-3T-TEKNOFEST/))  
 
 Bu proje, *Paclitaxel ilacının farklı kanser hücre hatlarındaki optimal dozunu tahmin etmek* amacıyla geliştirilmiş bir yapay zekâ tabanlı araştırma prototipidir. Sistem, hücre bazında *IC50 hesaplama, **%50–%90 arası etkililik seviyeleri için doz önerileri* ve *doz–yanıt eğrilerinin görselleştirilmesi* işlevlerini sağlamaktadır.  
   
