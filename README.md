@@ -63,10 +63,9 @@ Arayüz özellikleri:
 ```text
 paclitaxel-dose-calculator/
 ├── model-development/   # 5 aşamalı ML pipeline (notebooklar)
-├── web-app/             # Web arayüzü ve JSON verileri
-├── data/                # Ham ve işlenmiş veriler
-├── models/              # Eğitilmiş modeller
-└── docs/                # Dokümantasyon & grafikler
+├── assets/             # CSS ve JSON verileri
+├── index.html/              # Web arayüzü
+
 ```
 
 ---
@@ -79,4 +78,4 @@ paclitaxel-dose-calculator/
 - IC50 dağılımları ve optimal doz hesaplamaları  
 
 👉 Ayrıntılı görseller için:  
-[Grafikler ve Açıklamaları (PDF)](docs/GRAFIKLER_VE_ACIKLAMALARI.pdf)  
+[Grafikler ve Açıklamaları (PDF)](https://docs.google.com/document/d/13zcDo6B0BH_SOElQdU4RaMufdT6Y9r2N/edit?usp=drive_link&ouid=104856913755461109286&rtpof=true&sd=true )  
